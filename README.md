@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/suhani178/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0125-valid-palindrome](https://github.com/suhani178/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/suhani178/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0125-valid-palindrome](https://github.com/suhani178/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
