@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhani178/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suhani178/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/suhani178/Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/suhani178/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/suhani178/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/suhani178/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/suhani178/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/suhani178/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/suhani178/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/suhani178/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/suhani178/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -42,11 +44,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/suhani178/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/suhani178/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/suhani178/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/suhani178/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suhani178/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +121,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/suhani178/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
