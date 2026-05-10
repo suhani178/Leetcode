@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/suhani178/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/suhani178/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0881-boats-to-save-people](https://github.com/suhani178/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0932-beautiful-array](https://github.com/suhani178/Leetcode/tree/main/0932-beautiful-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,11 +56,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suhani178/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0932-beautiful-array](https://github.com/suhani178/Leetcode/tree/main/0932-beautiful-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/suhani178/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0070-climbing-stairs](https://github.com/suhani178/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0932-beautiful-array](https://github.com/suhani178/Leetcode/tree/main/0932-beautiful-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
