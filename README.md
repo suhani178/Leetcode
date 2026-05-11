@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/suhani178/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/suhani178/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/suhani178/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0525-contiguous-array](https://github.com/suhani178/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0561-array-partition](https://github.com/suhani178/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0704-binary-search](https://github.com/suhani178/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/suhani178/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/suhani178/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/suhani178/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0525-contiguous-array](https://github.com/suhani178/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/suhani178/Leetcode/tree/main/0561-array-partition/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/suhani178/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 <!---LeetCode Topics End-->
