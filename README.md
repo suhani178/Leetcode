@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/suhani178/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/suhani178/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0561-array-partition](https://github.com/suhani178/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [0565-array-nesting](https://github.com/suhani178/Leetcode/tree/main/0565-array-nesting/) | Medium |
 | [0704-binary-search](https://github.com/suhani178/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/suhani178/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0881-boats-to-save-people](https://github.com/suhani178/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -169,4 +170,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/suhani178/Leetcode/tree/main/0525-contiguous-array/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0565-array-nesting](https://github.com/suhani178/Leetcode/tree/main/0565-array-nesting/) | Medium |
 <!---LeetCode Topics End-->
