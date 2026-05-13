@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/suhani178/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0932-beautiful-array](https://github.com/suhani178/Leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [1146-snapshot-array](https://github.com/suhani178/Leetcode/tree/main/1146-snapshot-array/) | Medium |
+| [1470-shuffle-the-array](https://github.com/suhani178/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [3379-transformed-array](https://github.com/suhani178/Leetcode/tree/main/3379-transformed-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
