@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/suhani178/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0881-boats-to-save-people](https://github.com/suhani178/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0932-beautiful-array](https://github.com/suhani178/Leetcode/tree/main/0932-beautiful-array/) | Medium |
+| [1146-snapshot-array](https://github.com/suhani178/Leetcode/tree/main/1146-snapshot-array/) | Medium |
 | [3379-transformed-array](https://github.com/suhani178/Leetcode/tree/main/3379-transformed-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/suhani178/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/suhani178/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/suhani178/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [1146-snapshot-array](https://github.com/suhani178/Leetcode/tree/main/1146-snapshot-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/suhani178/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/suhani178/Leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [1146-snapshot-array](https://github.com/suhani178/Leetcode/tree/main/1146-snapshot-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/suhani178/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [1146-snapshot-array](https://github.com/suhani178/Leetcode/tree/main/1146-snapshot-array/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
