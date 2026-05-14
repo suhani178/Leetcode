@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/suhani178/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/suhani178/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/suhani178/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0330-patching-array](https://github.com/suhani178/Leetcode/tree/main/0330-patching-array/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/suhani178/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/suhani178/Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/suhani178/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suhani178/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/suhani178/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0330-patching-array](https://github.com/suhani178/Leetcode/tree/main/0330-patching-array/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/suhani178/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/suhani178/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/suhani178/Leetcode/tree/main/0561-array-partition/) | Easy |
