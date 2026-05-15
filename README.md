@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/suhani178/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0881-boats-to-save-people](https://github.com/suhani178/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0932-beautiful-array](https://github.com/suhani178/Leetcode/tree/main/0932-beautiful-array/) | Medium |
+| [1122-relative-sort-array](https://github.com/suhani178/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1146-snapshot-array](https://github.com/suhani178/Leetcode/tree/main/1146-snapshot-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/suhani178/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [3379-transformed-array](https://github.com/suhani178/Leetcode/tree/main/3379-transformed-array/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/suhani178/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/suhani178/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0881-boats-to-save-people](https://github.com/suhani178/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1122-relative-sort-array](https://github.com/suhani178/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/suhani178/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/suhani178/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/suhani178/Leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [1122-relative-sort-array](https://github.com/suhani178/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1146-snapshot-array](https://github.com/suhani178/Leetcode/tree/main/1146-snapshot-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/suhani178/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [1122-relative-sort-array](https://github.com/suhani178/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
