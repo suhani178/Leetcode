@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/suhani178/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0070-climbing-stairs](https://github.com/suhani178/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0932-beautiful-array](https://github.com/suhani178/Leetcode/tree/main/0932-beautiful-array/) | Medium |
+| [1006-clumsy-factorial](https://github.com/suhani178/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/suhani178/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/suhani178/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/suhani178/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [1006-clumsy-factorial](https://github.com/suhani178/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/suhani178/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [1006-clumsy-factorial](https://github.com/suhani178/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 | [3379-transformed-array](https://github.com/suhani178/Leetcode/tree/main/3379-transformed-array/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
