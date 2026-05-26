@@ -195,4 +195,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1068-product-sales-analysis-i](https://github.com/suhani178/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/suhani178/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
