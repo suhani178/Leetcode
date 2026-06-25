@@ -212,5 +212,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1729-find-followers-count](https://github.com/suhani178/Leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/suhani178/Leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/suhani178/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/suhani178/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/suhani178/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
