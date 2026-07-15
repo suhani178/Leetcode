@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0175-combine-two-tables](https://github.com/suhani178/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/suhani178/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/suhani178/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/suhani178/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/suhani178/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/suhani178/Leetcode/tree/main/0577-employee-bonus/) | Easy |
